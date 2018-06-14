@@ -1,0 +1,8 @@
+kataparking\model\Parking.class
+kataparking\dao\ParkingDao.class
+kataparking\config\WebMvcConfig.class
+kataparking\dao\ParkingDaoImp.class
+kataparking\service\ParkingServiceImp.class
+kataparking\config\AppInitializer.class
+kataparking\service\ParkingService.class
+kataparking\controller\AppController.class
